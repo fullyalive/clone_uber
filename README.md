@@ -1,2 +1,4 @@
-# clone_uber
-Cloning Uber
+# clone_uber-server
+Cloning Uber with GraphQL, Typescript, NodeJS
+
+
