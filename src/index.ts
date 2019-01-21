@@ -6,10 +6,8 @@ import app from "./app";
 const PORT: number | string = process.env.PORT || 4000;
 // PORT 상수의 타입은 number나 string
 // PORT 상수에는 입력받은 port 환경 변수나 4000을 할당
-
 const PLAYGROUND_ENDPOINT: string = "/playground";
 // PLAYGROUND의 값으로 url '/playgrouond'를 할당한 것
-
 const GRAPHQL_ENDPOINT: string = "/graphql";
 
 const appOptions: Options = {
